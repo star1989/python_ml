@@ -5,7 +5,7 @@
 
 *全称:* Python Data Analysis Library
 
-*基础教程:* [https://github.com/star1989/python_ml/pd.py](https://github.com/star1989/python_ml/pd.py)
+*基础教程:* [https://github.com/star1989/python_ml/blob/master/pd.py](https://github.com/star1989/python_ml/blob/master/pd.py)
 
 ##### numpy
 *官网:* [http://www.numpy.org/](http://www.numpy.org/)
